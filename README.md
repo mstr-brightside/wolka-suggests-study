@@ -10,6 +10,8 @@
 
 [EggHead](https://egghead.io/ "EggHead") - relatively small platform with courses, mostly web-dev oriented. Also offers podcasts, talks and articles. Huge plus on EggHead is that you don't need to pay to watch materias. Just register and start learning.
 
+[Coursera](https://www.coursera.org/ "Coursera") - legendary Coursera, many various courses on the IT and programming subject, but not only. Today Coursera covers areas like Business, Personal Development, Data Science, Math, Physics, Social Sciences, Arts and even Language Learning. Another huge point for Coursera is a possibility to get a degree or a certificate, which will be valuable at your job. There are free courses as well as non-free ($), plans for students and enterprise. Coursera also has a blog and publish articles on different subjects.
+
 ## RU
 
 # Online practice
