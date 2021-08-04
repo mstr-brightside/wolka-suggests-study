@@ -8,6 +8,8 @@
 
 [Codecademy](https://www.codecademy.com/ "CodeCademy") - specific to programming languages, offers various courses to learn different languages, including Python, Javascript, C++, Ruby; You may also find materials for HTML, CSS as well as for Data Science. Codeacademy has a community (chat, forum), where you may speak with others; provides articles and cheatsheets. Individuas and business pricing.
 
+[EggHead](https://egghead.io/ "EggHead") - relatively small platform with courses, mostly web-dev oriented. Also offers podcasts, talks and articles. Huge plus on EggHead is that you don't need to pay to watch materias. Just register and start learning.
+
 ## RU
 
 # Online practice
