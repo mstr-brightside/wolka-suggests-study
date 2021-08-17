@@ -12,6 +12,9 @@
 
 [Coursera](https://www.coursera.org/ "Coursera") - legendary Coursera, many various courses on the IT and programming subject, but not only. Today Coursera covers areas like Business, Personal Development, Data Science, Math, Physics, Social Sciences, Arts and even Language Learning. Another huge point for Coursera is a possibility to get a degree or a certificate, which will be valuable at your job. There are free courses as well as non-free ($), plans for students and enterprise. Coursera also has a blog and publish articles on different subjects.
 
+[EdX](https://www.edx.org/) - vide variety of courses on many topics (including Architecture, Art & Culture
+Biology & Life Sciences, Business & Management, Chemistry, Communication, Computer Science, Data Analysis & Statistics, Design, Economics & Finance, Education & Teacher Training, Electronics, Energy & Earth Sciences, Engineering, Environmental Studies, Ethics, Food & Nutrition, Health & Safety, History, Humanities, Language, Law, Literature, Math, Medicine, Music, Philanthropy, Philosophy & Ethics, Physics, Science, Social Sciences and others). Platform offers courses from partners (including Amazon, IBM, Linux Foundation, various Universities). Some courses at no charge. EdX also offers plans for Business.
+
 ## RU
 
 # Online practice
