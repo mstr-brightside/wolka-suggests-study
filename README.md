@@ -15,6 +15,8 @@
 [EdX](https://www.edx.org/) - vide variety of courses on many topics (including Architecture, Art & Culture
 Biology & Life Sciences, Business & Management, Chemistry, Communication, Computer Science, Data Analysis & Statistics, Design, Economics & Finance, Education & Teacher Training, Electronics, Energy & Earth Sciences, Engineering, Environmental Studies, Ethics, Food & Nutrition, Health & Safety, History, Humanities, Language, Law, Literature, Math, Medicine, Music, Philanthropy, Philosophy & Ethics, Physics, Science, Social Sciences and others). Platform offers courses from partners (including Amazon, IBM, Linux Foundation, various Universities). Some courses at no charge. EdX also offers plans for Business.
 
+[Curious](https://curious.com/) - Curious hosts online level courses in a wide range of disciplines. It has an interesting and effective idea of "stretching your brain" over different areas. Today you spend 15 minuts on Math, tomorrow you may learn something new in Sales. Curios has a CQ Wheel (Curious Quotient) which analizes your topics and suggests you the new topics to organically develop your areas of interest. Registration is fast, after it you fill out the form to determine your areas of interest and time you want to spend over learning every day. You have a free trial, then platform requires payment. Every day you will have a goal to accomplish according to the time and topics you've selected.
+
 ## RU
 
 # Online practice
