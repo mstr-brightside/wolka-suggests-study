@@ -17,6 +17,8 @@ Biology & Life Sciences, Business & Management, Chemistry, Communication, Comput
 
 1. [Curious](https://curious.com/) - Curious hosts online level courses in a wide range of disciplines. It has an interesting and effective idea of "stretching your brain" over different areas. Today you spend 15 minuts on Math, tomorrow you may learn something new in Sales. Curios has a CQ Wheel (Curious Quotient) which analizes your topics and suggests you the new topics to organically develop your areas of interest. Registration is fast, after it you fill out the form to determine your areas of interest and time you want to spend over learning every day. You have a free trial, then platform requires payment. Every day you will have a goal to accomplish according to the time and topics you've selected.
 
+1. [Pluralsight]() - offers a variety of video training courses for software developers. Plularsight covers IT sphere, offering courses on different topics, not only programming or administrating, but also smth like "how 5g works"; covers certain topic in business area as well as in architecture and construction. Trial period lasts for 10 days, then courses are at a charge.
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
