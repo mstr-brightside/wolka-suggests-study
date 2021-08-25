@@ -27,6 +27,11 @@ Biology & Life Sciences, Business & Management, Chemistry, Communication, Comput
 
 1. [NewLine](https://www.newline.co/pricing) - this is actually not a platform with video courses, but to books, guides, community and masterclasses. Price is quite low. There is also a way to become a teacher and share the knowledge with others. NewLine offers a podcasts as well.
 
+1. [Platzi](https://courses.platzi.com/) - courses on various topics, mostly design and marketing. However, there are some about programming, data science. Courses are cheap. Platzi also has a Blog. Looks like the platform has no support (latest articles in Blog are 5 years old).
+
+1. [TED](https://www.ted.com/) - one of the most popular and recognizable brand. TED covers many different topic in various areas (Technology
+Science, Design, Business, Innovation, Social change, Health, Nature, The environment, Personal growth, Humanity, Society, Identity and many others). It is well known for it's famous speakers. TED proposes a monthly or yearly subscribtion and the price is surprisingly low.
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
