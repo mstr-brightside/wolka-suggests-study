@@ -23,6 +23,8 @@ Biology & Life Sciences, Business & Management, Chemistry, Communication, Comput
 
 1. [SkillShare](https://www.skillshare.com/) - various courses of wide range of topics (Animation, Creative Writing, Film & Video, Fine Art, Graphic Design, Illustration, Music, Photography, UI/UX Design, Web Development, Business Analytics, Freelance & Entrepreneurship, Leadership & Management, Marketing, Lifestyle, Productivity). The courses are available through subscription, but there is a trial. Idea of the platform is to focus on the primary goal of learning by completing a project. You may also check workshops, they have online sessions and student projects. Platfor offers plans for teams.
 
+1. [Udacity](https://www.udacity.com/) - various IT-related topics from AI to product management. There is a possibility to choose a mentor or to become a mentor yourself. Udacity offeres individual and/or enterprise plans. Charge model is different from other platforms - here you buy membership for months and all courses are available for you, while other platforms mostly propose a price for a given course.
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
