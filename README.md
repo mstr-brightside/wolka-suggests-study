@@ -25,6 +25,8 @@ Biology & Life Sciences, Business & Management, Chemistry, Communication, Comput
 
 1. [Udacity](https://www.udacity.com/) - various IT-related topics from AI to product management. There is a possibility to choose a mentor or to become a mentor yourself. Udacity offeres individual and/or enterprise plans. Charge model is different from other platforms - here you buy membership for months and all courses are available for you, while other platforms mostly propose a price for a given course.
 
+1. [NewLine](https://www.newline.co/pricing) - this is actually not a platform with video courses, but to books, guides, community and masterclasses. Price is quite low. There is also a way to become a teacher and share the knowledge with others. NewLine offers a podcasts as well.
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
