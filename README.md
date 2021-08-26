@@ -34,6 +34,10 @@ Science, Design, Business, Innovation, Social change, Health, Nature, The enviro
 
 1. [Thinkful](https://www.thinkful.com/) - learn through online mentoring and 1-1 practice. Thinkful main focus is IT industry (Software, Data, UI/UX, etc) and it offers you to choose a desired program to learn. You will choose a team and start learning by a collaboration with mentors. The process of registration is a bit weird, though: you have to contact with them over the form on the site first, talk on what you want and expect and then you will get an account. Prices are unknown.
 
+1. [CodeORG](https://code.org/) - this is just an amazing place for kids to start learning programming. Very simple and super visual examples will make an amazing trip to Computer Science journey for kids. Registration and courses are free.
+
+1. [BaseRails](https://www.baserails.com/) - a good place to start learning Ruby (obvious from the domain name). They offer to build a certain system, a simplified clone of an existing application (Yelp, Craigslist, etc). Charging is either monthly or yearly, but the prices are quite low.
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
