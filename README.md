@@ -32,6 +32,8 @@ Biology & Life Sciences, Business & Management, Chemistry, Communication, Comput
 1. [TED](https://www.ted.com/) - one of the most popular and recognizable brand. TED covers many different topic in various areas (Technology
 Science, Design, Business, Innovation, Social change, Health, Nature, The environment, Personal growth, Humanity, Society, Identity and many others). It is well known for it's famous speakers. TED proposes a monthly or yearly subscribtion and the price is surprisingly low.
 
+1. [Thinkful](https://www.thinkful.com/) - learn through online mentoring and 1-1 practice. Thinkful main focus is IT industry (Software, Data, UI/UX, etc) and it offers you to choose a desired program to learn. You will choose a team and start learning by a collaboration with mentors. The process of registration is a bit weird, though: you have to contact with them over the form on the site first, talk on what you want and expect and then you will get an account. Prices are unknown.
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
