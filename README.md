@@ -38,6 +38,8 @@ Science, Design, Business, Innovation, Social change, Health, Nature, The enviro
 
 1. [BaseRails](https://www.baserails.com/) - a good place to start learning Ruby (obvious from the domain name). They offer to build a certain system, a simplified clone of an existing application (Yelp, Craigslist, etc). Charging is either monthly or yearly, but the prices are quite low.
 
+1. [TreeHouse](https://teamtreehouse.com/) -  vide variety of courses on the IT subject, mostly programming; covers the topics over: Android, APIs, Business, C#, Computer Science, CSS, Data Analysis, Databases, Design, Development Tools, Go, HTML, Java, JavaScript, Machine Learning, PHP, Python, Quality Assurance, Ruby, etc. Prices are fine, besides courses they have a community where you may discuss different problems/questions.
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
