@@ -40,6 +40,9 @@ Science, Design, Business, Innovation, Social change, Health, Nature, The enviro
 
 1. [TreeHouse](https://teamtreehouse.com/) -  vide variety of courses on the IT subject, mostly programming; covers the topics over: Android, APIs, Business, C#, Computer Science, CSS, Data Analysis, Databases, Design, Development Tools, Go, HTML, Java, JavaScript, Machine Learning, PHP, Python, Quality Assurance, Ruby, etc. Prices are fine, besides courses they have a community where you may discuss different problems/questions.
 
+1. [OneMonth](https://onemonth.com/) - originally started as a "Programming for Non-Programmers" platform with a main focus on Learning to Code in one month. Now offers varierty of courses for Computer Programming, Coding, Business, Crypto and others: HTML & CSS, Python,
+SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockchain, Product Management, Content Marketing, Responsive Design, jQuery, Storytelling for Business, etc. Price is not high, yearly subscription and "unlimited access to every One Month course".
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
