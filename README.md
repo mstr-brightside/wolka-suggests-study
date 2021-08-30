@@ -43,9 +43,9 @@ Science, Design, Business, Innovation, Social change, Health, Nature, The enviro
 1. [OneMonth](https://onemonth.com/) - originally started as a "Programming for Non-Programmers" platform with a main focus on Learning to Code in one month. Now offers varierty of courses for Computer Programming, Coding, Business, Crypto and others: HTML & CSS, Python,
 SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockchain, Product Management, Content Marketing, Responsive Design, jQuery, Storytelling for Business, etc. Price is not high, yearly subscription and "unlimited access to every One Month course".
 
-1. [Dash](https://dash.generalassemb.ly/) - Dash is a fun and free online course that teaches you the basics of web development
+1. [Dash](https://dash.generalassemb.ly/) - Dash is a fun and free online course that teaches you the basics of web development.
 
-1. [LearnDash](https://www.learndash.com/) - Programming & Design, Business & Marketing, Humanities & Social Sciences, Math & Physical Science, Life Sciences & Health, Personal Development, Lifestyle. Wouldn't tell tell the pricing is interesting
+1. [LearnDash](https://www.learndash.com/) - Programming & Design, Business & Marketing, Humanities & Social Sciences, Math & Physical Science, Life Sciences & Health, Personal Development, Lifestyle. Wouldn't tell tell the pricing is interesting.
 
 ## RU
 
@@ -64,66 +64,67 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Learn Javascript](https://learn.javascript.ru/) - не мог не упомянуть платформу, на которой сам провел не одну неделю, ведь мой главный навык - web-разработка и клиентская часть, а значит мне необходимо знать JavaScript. Материалы для обучения бесплатны, хорошо структурированы, предлагается множество примеров. Есть ссылка на стандарт. Есть программа обучения, есть справочник, есть форум, есть тесты. Одним словом, есть всё, чтобы стать профессионалом JavsScript.
 
-
 # Online practice
 
 ## EN
 
-1. [HackerRank](inprogress.com) - legendary Hackerrank. Nothing to add here, just use it.
+1. [HackerRank](https://www.hackerrank.com/) - legendary Hackerrank. Nothing to add here, just use it.
 
-1. [Edabit](inprogress.com) - my personal choice, i like the way I have to solve problems to cover all the proposed test cases. Nice filter to find out tasks for your level
+1. [Edabit](https://edabit.com/) - my personal choice, I like the way I have to solve problems to cover all the proposed test cases. Nice filter to find out tasks for your level.
 
-1. [Codeforces](inprogress.com) - популярная платформа для соревнований на знание алгоритмов. Есть система рейтинга, на основе которой участники делятся на два дивизиона. Таким образом, профи не соревнуются с новичками напрямую
+1. [Codewars](https://www.codewars.com/) — huge collection of a wide variety of tasks: from algorithms to design patterns.
 
-1. [Codewars](inprogress.com) — cборник задач на разные темы, от алгоритмов до шаблонов проектирования.
+1. [LeetCode](https://leetcode.com/) — a collection of tasks oriented for self-preparation to a job interview.
 
-1. [LeetCode](inprogress.com) — сайт с задачами для подготовки к собеседованиям.
+1. [TopCoder](https://www.topcoder.com/) — a direct competitor to russian codeforces platform, but less popular. Interesting feature of TopCoder is that they propose competitions of production programming; there is no "right answer", only a solution that fits certain situation the most.
 
-1. [TopCoder](inprogress.com) — ненамного отстающая по популярности от Codeforces американская платформа. Примечательна тем, что кроме алгоритмических контестов, которые описывались ранее, на ней проводятся и соревнования по промышленному программированию и марафоны — соревнования с задачами на исследование, для которых нет единого верного алгоритма, а есть лишь ответ, подходящий больше или меньше.
+1. [SPOJ](https://www.spoj.com/) — platform with a huge amount of different tasks on various topics: dynamic programming, graph algorithms, data structures, etc.
 
-1. [SPOJ](inprogress.com) — крупный англоязычный сайт с более чем 20000 задачами на абсолютно разные темы: динамическое программирование, графы, структуры данных и т.д.
+1. [CodeChef](https://www.codechef.com/) — another competitor Codeforces and TopCoder, smaller, less popular. Huge amount of tasks, possibility to compete.
 
-1. [CodeChef](inprogress.com) — менее крупный аналог Codeforces и TopCoder, тоже с огромным архивом задач и регулярными контестами.
+1. [Project Euler](https://projecteuler.net/) — very interesting platform with programming tasks which it is IMPOSSIBLE to solve without knowing mathematical/geometry algos. To solve concrete problem, you have to learn mathematics/geometry first.
 
-1. [Project Euler](inprogress.com) — сборник 500 задач, которые невозможно решить без знаний математических и геометрических алгоритмов. 
+1. [Kaggle](https://www.kaggle.com/) — another interesting project, which is iriented to solve a concrete problem, which they will be reused in a real-life. For example: write a program to predict malicious website, or a program to determine numbers on the picture.
 
-1. [Kaggle](inprogress.com) — данная платформа отличается от описанных ранее тем, что тут не проводится алгоритмических соревнований — только задачи на исследование (как в марафонах на вышеприведенном TopCoder). Например, одна из задач, на которой сейчас там проверяют свои умения участники, состоит в распознании написанных вручную цифр. 
+1. [CodinGame](https://www.codingame.com/start) — place where programming practice and videogaming meet each other. Here you have a huge collection of programming tasks, which are done in a videogame way.
 
-1. [CodinGame](inprogress.com) — сайт, на котором программирование и видеоигры сливаются в единое целое. Здесь вы найдете большую коллекцию задач на программирование, оформленных в виде видеоигр. 
+1. [CodeCombat](https://codecombat.com/) - a good place to start if you are a complete beginner. the tasks are done in a videogame way, splitted into parts: every new part is more complex than the previous. You also may join as an educator and teach others programming.
 
-1. [CodeCombat](inprogress.com) - будет больше полезен для новичков. Эта платформа наглядно демонстрирует, что обучение программированию — это не так сложно и скучно, как может показаться. Сайт представлен в виде игры, которая разделена на несколько частей, возрастающих по сложности. В каждой части содержится множество задач на те или иные темы, призванные научить программированию с нуля любого человека. 
+1. [C Puzzles](http://www.gowrikumar.com/c/index.php) — C-language specific tasks given in an interesting way. C may sometimes be whimsy: you may have a task to review the code, which shouldn't work, but for some reason it is compiled successfully and does the job right. Why? This is the type of tasks you may have on this platform.
 
-1. [C Puzzles](inprogress.com) — подборка головоломок, специфичный для языка С, со всеми его причудами. Например, дан код, который, по логике, не должен работать, но, тем не менее, он компилируется и даже правильно выполняет свою задачу. Надо понять, почему так? На этой сайте вы сможете приобрести навык отладки программ и чтения кода других.
+1. [Programming Praxis](https://programmingpraxis.com/) — more a blog, than a tasks platform. Read and check the examples provided.
 
-1. [Programming Praxis](inprogress.com) — блог, включающий в себя много интересных задач.
+1. [PythonChallange](http://www.pythonchallenge.com/) — clear form the name, that tasks here are related to Python.
 
-1. [PythonChallange](inprogress.com) — сайт с загадками, возрастающими по сложности. Для их решения необходимо написать программу на Python.
+1. [Al Zimmermann’s Programming Contests](http://azspcs.com/) — 1 or 2 contests per year. Here is a descriptive quote: "Each contest asks that you come up with your best solutions to a set of computationally intensive problems, generally involving sophisticated heuristics. Although I speak of "programming contests", technically you don't need to write a computer program to enter. You can enter whether you use a computer, manual calculations, or tea leaves to solve the problems. You send me solutions, not programs.".
 
-1. [Al Zimmermann’s Programming Contests](inprogress.com) — платформа, на которой раз в полгода проводятся контесты с задачами на исследование и оптимизацию. Интересен тем, что писать программу не обязательно — даются только тестовые данные. Ответы можно рассчитывать вручную, или просто гадать их на кофейной гуще.
+1. [Ruby Quiz](http://rubyquiz.com/) — Ruby quizzes. Platform is under a new management now, so anything can happen (including rebranding), but it is still active and new Ruby puzzles are published. You may also write solutions in other languages.
 
-1. [Ruby Quiz](inprogress.com) — подборка задач для программистов на Ruby, но решения можно писать и на других языках.
+1. [Prolog Problems](https://sites.google.com/site/prologsite/) — same as Ruby Quiz above, but for programmers using Prolog.
 
-1. [Prolog Problems](inprogress.com) — аналогично с Ruby Quiz. Подборка задач для программистов, использующих Prolog.
+1. [CheckIO](https://checkio.org/) — CheckiO is expanding the world’s code literacy through game play. For a programmers of any levels there are programming tasks done in a game-way.
 
-1. [СppStudio](inprogress.com) - Сборник задач для практики от СppStudio - рекомендуется решать на С++, но можно и на других языках.
+1. [Empire of Code](https://empireofcode.com/) — have you ever wanted to write your own strategy or tactics? You have now a chance to do that with Empire Of Code platform.
 
-1. [CheckIO](inprogress.com) — сайт с задачами для программистов всех уровней, оформленный в виде игры.
-
-1. [E-olimp](inprogress.com) — украинская тестирующая система с большим архивом задач.
-
-1. [Empire of Code](inprogress.com) — сайт для программистов, где необходимо писать код, реализующий стратегию и тактику виртуальных бойцов.
-
-1. [Operation Go](inprogress.com) — практика написания кода на Go в игровой форме.
+1. [Operation Go](inprogress.com) — Go-language practice in a game-way. Lately website is not working, so I might remove it from this list in the future.
 
 ## RU
 
 1. [ACMP](https://acmp.ru/) - легендарный ACMP . Российский hackerrank, когда сам hackerrank еще "не был мейнстримом".
 
-1. [Timus Online Judge](https://acm.timus.ru/) — русскоязычная (хотя английский язык также поддерживается) платформа, на которой более тысячи задач удачно отсортированы по темам и по сложности
+1. [Codeforces](http://codeforces.com/) - популярная платформа для соревнований на знание алгоритмов. Есть система рейтинга, на основе которой участники делятся на два дивизиона. Таким образом, профи не соревнуются с новичками напрямую. Платформа создана и поддерживается ИТМО.
+
+1. [Timus Online Judge](https://acm.timus.ru/) — русскоязычная (хотя английский язык также поддерживается) платформа, на которой более тысячи задач удачно отсортированы по темам и по сложности.
 
 1. [Информатикс](https://informatics.msk.ru/) — платформа с множеством теоретических материалов и задач по соответствующим темам. Все очень удобно собрано по категориям и темам.
 
 1. [Russian AI Cup](https://russianaicup.ru/) — ежегодный контест от mail.ru по разработке ИИ. Участвовать могут все — от школьников до профессионалов. Победителям и призерам также полагаются крутые призы. Обязательно примите участие, если вы заинтересованы этой темой.
+
+1. [С++ Studio](http://cppstudio.com/) - Сборник задач для практики С++ и С.
+
+## UA
+
+1. [E-olimp](inprogress.com) — украинская тестирующая система с большим архивом задач.
 
 # Youtube channels
 
