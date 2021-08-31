@@ -136,7 +136,7 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 # Learning foreign languages
 
-1. [https://preply.com/](https://preply.com/) - find a real tutor and start learning. Personal, 1-1 lessons are the best way to learn/improve your language skills. Preply offers teachers not only for languages, but for many other subjects, like arts, maths, programming, music and even playing computer games
+1. [Preply](https://preply.com/) - find a real tutor and start learning. Personal, 1-1 lessons are the best way to learn/improve your language skills. Preply offers teachers not only for languages, but for many other subjects, like arts, maths, programming, music and even playing computer games
 
 1. [Duolingo](https://www.duolingo.com/) - probably the most popular and well known. Millions of users. Courses are super interactive, great UI/UX, animations and many other things
 
