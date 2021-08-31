@@ -1,4 +1,4 @@
-# Courses
+# Mostly IT area courses
 
 ## EN
 
@@ -53,7 +53,7 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [DataQuest](https://www.dataquest.io/) - dive into Data Science, Machine Learning, Data Analysis with the courses at this platform. Learning is interactive, available community, pricing is affordable.
 
-1. 
+1. [DataMonkey](http://datamonkey.pro/) - perfect place to start for a complete beginners, who want to learn SQL and/or spreadheets to analise data. Courses are done in interactive and playful way, it's all very clear. You can start learning for free,
 
 ## RU
 
@@ -72,7 +72,7 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Learn Javascript](https://learn.javascript.ru/) - не мог не упомянуть платформу, на которой сам провел не одну неделю, ведь мой главный навык - web-разработка и клиентская часть, а значит мне необходимо знать JavaScript. Материалы для обучения бесплатны, хорошо структурированы, предлагается множество примеров. Есть ссылка на стандарт. Есть программа обучения, есть справочник, есть форум, есть тесты. Одним словом, есть всё, чтобы стать профессионалом JavsScript.
 
-# Online practice
+# Online practice for IT
 
 ## EN
 
@@ -133,6 +133,19 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 ## UA
 
 1. [E-olimp](inprogress.com) — украинская тестирующая система с большим архивом задач.
+
+# Learning foreign languages
+
+1. [https://preply.com/](https://preply.com/) - find a real tutor and start learning. Personal, 1-1 lessons are the best way to learn/improve your language skills. Preply offers teachers not only for languages, but for many other subjects, like arts, maths, programming, music and even playing computer games
+
+1. [Duolingo](https://www.duolingo.com/) - probably the most popular and well known. Millions of users. Courses are super interactive, great UI/UX, animations and many other things
+
+1. [LingVist](https://learn.lingvist.com/) - another platform which offers you to learn English, German, Spanish, French, Portuguese or Russian and has 100-200+ hrs of lessons (depending on language). Trial is free, but then you have to make a monthly/yearly subscribtion
+
+[Busuu](https://www.busuu.com/) - user community sharing the same interest of learning foreign languages
+
+[Memrise](https://memrise.com/) - great way to learn new words in a desired language by selecting the right card for an appropriate word. You can choose a level to learn more complex words or phrases.
+
 
 # Youtube channels
 
