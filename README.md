@@ -32,6 +32,8 @@ Biology & Life Sciences, Business & Management, Chemistry, Communication, Comput
 1. [TED](https://www.ted.com/) - one of the most popular and recognizable brand. TED covers many different topic in various areas (Technology
 Science, Design, Business, Innovation, Social change, Health, Nature, The environment, Personal growth, Humanity, Society, Identity and many others). It is well known for it's famous speakers. TED proposes a monthly or yearly subscribtion and the price is surprisingly low.
 
+1. [TEDed](https://ed.ted.com/) - a more "general" TED, where you can find educational videos about anything round the world. How Aloe works? What is the origin of Olympics? How to cook BBQ? Everything is here.
+
 1. [Thinkful](https://www.thinkful.com/) - learn through online mentoring and 1-1 practice. Thinkful main focus is IT industry (Software, Data, UI/UX, etc) and it offers you to choose a desired program to learn. You will choose a team and start learning by a collaboration with mentors. The process of registration is a bit weird, though: you have to contact with them over the form on the site first, talk on what you want and expect and then you will get an account. Prices are unknown.
 
 1. [CodeORG](https://code.org/) - this is just an amazing place for kids to start learning programming. Very simple and super visual examples will make an amazing trip to Computer Science journey for kids. Registration and courses are free.
@@ -46,6 +48,12 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 1. [Dash](https://dash.generalassemb.ly/) - Dash is a fun and free online course that teaches you the basics of web development.
 
 1. [LearnDash](https://www.learndash.com/) - Programming & Design, Business & Marketing, Humanities & Social Sciences, Math & Physical Science, Life Sciences & Health, Personal Development, Lifestyle. Wouldn't tell tell the pricing is interesting.
+
+1. [DataCamp](https://www.datacamp.com/) - R and Pythond courses, oriented to learn Data Science. First month for free, then you have to pay.
+
+1. [DataQuest](https://www.dataquest.io/) - dive into Data Science, Machine Learning, Data Analysis with the courses at this platform. Learning is interactive, available community, pricing is affordable.
+
+1. 
 
 ## RU
 
