@@ -122,6 +122,16 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Operation Go](inprogress.com) — Go-language practice in a game-way. Lately website is not working, so I might remove it from this list in the future.
 
+1. [Cyber Dojo](https://www.cyber-dojo.org/) - simple service with interesting problems to solve. Platforms offers support of many languages, so you may practice coding in as many programming languges as you want. Service is free for use for individuals (non-commercial use), but please donate.
+
+1. [Code Monkey](https://www.codemonkey.com/) - another great service for kids. It's an online game to learn Python while playing. Price is low, but service is not that big and there are not many chapters yet.
+
+1. [Code Gym](https://codegym.cc/) - service with practice tasks to learn Java from scratch. It's like step-by-step course with gaming elements. Basic level is for free, then you will have to buy a subscription.
+
+1. [CSS Diner](https://flukeout.github.io/) - cafe simulator which helps to learn CSS selectors. It's for free!
+
+1. [RoboCode](https://robocode.sourceforge.io/) - Best description is on the main page: "Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.". It's free of charge.
+
 ## RU
 
 1. [ACMP](https://acmp.ru/) - легендарный ACMP . Российский hackerrank, когда сам hackerrank еще "не был мейнстримом".
@@ -157,4 +167,8 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 ## EN
 
-## RU
+1. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/videos) - probably the best teacher explaining algorithms I've ever seen. Unfortunately, there are no updates on the channel for couple of years already.
+
+1. [Academmind](https://www.youtube.com/c/Academind) - quite popular channel with courses and tutorials that teach you everything related to web development.
+
+1. [Free Code Camp](https://www.youtube.com/c/Freecodecamp) - popular channel with various tutorials about programming (mostly)
