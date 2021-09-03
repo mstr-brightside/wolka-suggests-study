@@ -53,7 +53,11 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [DataQuest](https://www.dataquest.io/) - dive into Data Science, Machine Learning, Data Analysis with the courses at this platform. Learning is interactive, available community, pricing is affordable.
 
-1. [DataMonkey](http://datamonkey.pro/) - perfect place to start for a complete beginners, who want to learn SQL and/or spreadheets to analise data. Courses are done in interactive and playful way, it's all very clear. You can start learning for free,
+1. [DataMonkey](http://datamonkey.pro/) - perfect place to start for a complete beginners, who want to learn SQL and/or spreadheets to analise data. Courses are done in interactive and playful way, it's all very clear. You can start learning for free.
+
+1. [Khan Academy]() - The organization produces short videos lessons. Includes practice exercises and materials for educators. Areas lessons cover: Math, Biology, Arts and Humanities, Economics, Chemistry, IT/Programming/Computing. All resources are available for free to users of the website and application.
+
+1. [Guides](https://guides.co/) - this is not actually a video-lessons platform, but a resource, where one can create a guide. It might be anything (just [explore](https://guides.co/explore) the examples). Idea is interesting, you might want to check it.
 
 ## RU
 
@@ -71,6 +75,8 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 1. [Yandex Practicum](https://practicum.yandex.ru/) - платформа для обучения "чему-то новому" от Яндекса. Курсы в основном ориентированы на сферу IT и предлагают широкий выбор (анализ данных, python/java/frontend,react,web/c++ разработчик, UI/UX), но так же есть темы посвященные Английскому языку, математике.
 
 1. [Learn Javascript](https://learn.javascript.ru/) - не мог не упомянуть платформу, на которой сам провел не одну неделю, ведь мой главный навык - web-разработка и клиентская часть, а значит мне необходимо знать JavaScript. Материалы для обучения бесплатны, хорошо структурированы, предлагается множество примеров. Есть ссылка на стандарт. Есть программа обучения, есть справочник, есть форум, есть тесты. Одним словом, есть всё, чтобы стать профессионалом JavsScript.
+
+1. [Loft School](https://loftschool.com/modules/) - небольшая развивающаяся платформа на тематику IT, рекламно поддерживается, например, Хабром. Есть бесплатные курсы.
 
 # Online practice for IT
 
