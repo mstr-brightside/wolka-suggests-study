@@ -57,7 +57,7 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Khan Academy](https://www.khanacademy.org/) - The organization produces short videos lessons. Includes practice exercises and materials for educators. Areas lessons cover: Math, Biology, Arts and Humanities, Economics, Chemistry, IT/Programming/Computing. All resources are available for free to users of the website and application.
 
-1. [Guides](https://guides.co/) - this is not actually a video-lessons platform, but a resource, where one can create a guide. It might be anything (just [explore](https://guides.co/explore) the examples). Idea is interesting, you might want to check it.
+1. [Guides.CO](https://guides.co/) - this is not actually a video-lessons platform, but a resource, where one can create a guide. It might be anything (just [explore](https://guides.co/explore) the examples). Idea is interesting, you might want to check it.
 
 ## RU
 
