@@ -158,7 +158,7 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [LingVist](https://learn.lingvist.com/) - another platform which offers you to learn English, German, Spanish, French, Portuguese or Russian and has 100-200+ hrs of lessons (depending on language). Trial is free, but then you have to make a monthly/yearly subscribtion
 
-1. [Busuu](https://www.busuu.com/) - user community sharing the same interest of learning foreign languages
+1. [Busuu](https://www.busuu.com/) - user community sharing the same interest of learning foreign languages. Platform has an algo, which creates an individual plan for a given user, analyses the progress and makes program adaptation to fit the needs of a given user. Platform also offers online exercises with a possibility to get immediate feedback from a native speaker.
 
 1. [Memrise](https://memrise.com/) - great way to learn new words in a desired language by selecting the right card for an appropriate word. You can choose a level to learn more complex words or phrases.
 
