@@ -78,6 +78,10 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Loft School](https://loftschool.com/modules/) - небольшая развивающаяся платформа на тематику IT, рекламно поддерживается, например, Хабром. Есть бесплатные курсы.
 
+1. [Wikium](https://wikium.ru/) - богатая библиотека курсов и коротких 15-минутных упражнений для развития мозга, установлению новых нейронных связей. У платформы есть хороший алгоритм анализа каждого из участников для подбора или оптимизации программы обучения и новых тренажеров. Алгоритм развивается в процессе обучения, поэтому чем больше вы учитесь, тем лучше становится подбираемая программа.
+
+1. [Skillfactory](https://skillfactory.ru/) - онлайн-школа, готовящая специалистов в области IT. Есть краткосрочные курсы, есть долгосрок. В составлении программ принимали участие и крупные компании (NVIDIA, Amazon, Яндекс). Основные направления касаются работы с данными (Data Science, Big Data, анализ данных с применением Python), а так же разработка (в основном web)
+
 # Online practice for IT
 
 ## EN
@@ -171,4 +175,4 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Academmind](https://www.youtube.com/c/Academind) - quite popular channel with courses and tutorials that teach you everything related to web development.
 
-1. [Free Code Camp](https://www.youtube.com/c/Freecodecamp) - popular channel with various tutorials about programming (mostly)
+1. [Free Code Camp](https://www.youtube.com/c/Freecodecamp) - popular channel with various tutorials about programming (mostly). They also have a [platform](https://www.freecodecamp.org/) where you can select a path to grow in. A lot of materials and examples, explanations and exercises.
