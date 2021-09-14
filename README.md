@@ -59,6 +59,8 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Guides.CO](https://guides.co/) - this is not actually a video-lessons platform, but a resource, where one can create a guide. It might be anything (just [explore](https://guides.co/explore) the examples). Idea is interesting, you might want to check it.
 
+1. [Prismatic](https://www.prismaticmovement.org/) - I would call this as Curious for Leadership and soft skills. Here is the quote from the site: "Prismatic students build the leadership skills employers want to see and entrepreneurs need to succeed." and they have a system of recommendations, which appearance reminds CQ Wheel on Curious.
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
@@ -168,6 +170,13 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Memrise](https://memrise.com/) - great way to learn new words in a desired language by selecting the right card for an appropriate word. You can choose a level to learn more complex words or phrases.
 
+# Universities
+
+1. [Stanford](https://online.stanford.edu/free-courses) - free online courses for various topics.
+
+1. [Harvard](https://online-learning.harvard.edu/) - free online courses for various topics, including legendary CS50 (if your primary goal to learn Computer Science).
+
+1. 
 
 # Youtube channels
 
