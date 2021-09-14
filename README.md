@@ -61,6 +61,10 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Prismatic](https://www.prismaticmovement.org/) - I would call this as Curious for Leadership and soft skills. Here is the quote from the site: "Prismatic students build the leadership skills employers want to see and entrepreneurs need to succeed." and they have a system of recommendations, which appearance reminds CQ Wheel on Curious.
 
+1. [The Odin Project](https://www.theodinproject.com/) - programs to learn web development, including learning JavaScript, Ruby on Rails. Comunity available.
+
+1. [W3 Schools](https://www.w3schools.com/) - huge amount of code examples on different languages, algorithm explanations for different languages as well. Learn programs for all popular and less popular programming languages. Advanced practice (like building a website) and etc. All is for free. However, information in a given learning program is poor and you will definitely need additional resourses. Algorithms are explained really well, though.
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
