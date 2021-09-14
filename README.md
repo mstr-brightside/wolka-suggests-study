@@ -180,8 +180,6 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Harvard](https://online-learning.harvard.edu/) - free online courses for various topics, including legendary CS50 (if your primary goal to learn Computer Science).
 
-1. 
-
 # Youtube channels
 
 ## EN
