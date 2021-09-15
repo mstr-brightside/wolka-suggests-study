@@ -90,6 +90,8 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Skillfactory](https://skillfactory.ru/) - онлайн-школа, готовящая специалистов в области IT. Есть краткосрочные курсы, есть долгосрок. В составлении программ принимали участие и крупные компании (NVIDIA, Amazon, Яндекс). Основные направления касаются работы с данными (Data Science, Big Data, анализ данных с применением Python), а так же разработка (в основном web)
 
+1. [BrainApps](https://brainapps.ru/) - платформа для развития когнитивных способностей: мышления, внимания, эмоциональной устойчивости интеллекта, памяти. Тренажер, спорт, фитнесс для мозга. Достаточно полезная вещь, которая пригодится каждому.
+
 # Online practice for IT
 
 ## EN
@@ -173,6 +175,8 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 1. [Busuu](https://www.busuu.com/) - user community sharing the same interest of learning foreign languages. Platform has an algo, which creates an individual plan for a given user, analyses the progress and makes program adaptation to fit the needs of a given user. Platform also offers online exercises with a possibility to get immediate feedback from a native speaker.
 
 1. [Memrise](https://memrise.com/) - great way to learn new words in a desired language by selecting the right card for an appropriate word. You can choose a level to learn more complex words or phrases.
+
+1. [BBC Learn English](https://www.bbc.co.uk/learningenglish) - well-known news portal offers courses to learn english. A lot of materials related to business. With BBC Learn English you have a possibility to work on improving grammaar, dictionary, pronounciation.
 
 # Universities
 
