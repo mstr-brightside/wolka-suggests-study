@@ -17,7 +17,7 @@ Biology & Life Sciences, Business & Management, Chemistry, Communication, Comput
 
 1. [Curious](https://curious.com/) - Curious hosts online level courses in a wide range of disciplines. It has an interesting and effective idea of "stretching your brain" over different areas. Today you spend 15 minuts on Math, tomorrow you may learn something new in Sales. Curios has a CQ Wheel (Curious Quotient) which analizes your topics and suggests you the new topics to organically develop your areas of interest. Registration is fast, after it you fill out the form to determine your areas of interest and time you want to spend over learning every day. You have a free trial, then platform requires payment. Every day you will have a goal to accomplish according to the time and topics you've selected.
 
-1. [Pluralsight](https://www.pluralsight.com/) - offers a variety of video training courses for software developers. Plularsight covers IT sphere, offering courses on different topics, not only programming or administrating, but also smth like "how 5g works"; covers certain topic in business area as well as in architecture and construction. Trial period lasts for 10 days, then courses are at a charge.
+1. [Pluralsight](https://www.pluralsight.com/) - offers a variety of video training courses for software developers. Plularsight covers IT sphere, offering courses on different topics, not only programming or administrating, but also smth like "how 5g works"; covers certain topic in business area as well as in architecture and construction. Trial period lasts for 10 days, then courses are at a charge. Codeschool was bought by Plularsight - in case if someone is still looking for Codeschool :)
 
 1. [Highbrow](https://gohighbrow.com/) - various courses of wide range of topics (Arts, Entrepreneurship, Finance, Health & Fitness, History, Languages, Marketing, Philosophy,  Psychology, Tech & Coding, Writing). Courses are not for free, but there is a trial. Also, Highbrow allows you to subscribe to only one course at a time, they explain it as "We want you to form a productive daily habit, but you shouldn’t tire your brain out".
 
@@ -64,6 +64,10 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 1. [The Odin Project](https://www.theodinproject.com/) - programs to learn web development, including learning JavaScript, Ruby on Rails. Comunity available.
 
 1. [W3 Schools](https://www.w3schools.com/) - huge amount of code examples on different languages, algorithm explanations for different languages as well. Learn programs for all popular and less popular programming languages. Advanced practice (like building a website) and etc. All is for free. However, information in a given learning program is poor and you will definitely need additional resourses. Algorithms are explained really well, though.
+
+1. [CodePlace](https://www.codeplace.com/) - courses related to web-development. Will fit both newcomers and experienced engineers. They are oriented to build a few apps in a few months to cover as much web-development related topics as possible. There are three levels of subscribtion with a different price, choose the one that fits you the most.
+
+1. [SitePoint](https://www.sitepoint.com/) - Choose from hundreds of books, courses, and tech talks on web development. Learn HTML, CSS, and JavaScript to React, Docker, Python, PHP, Ruby, Design, SEO. They also have a forum and blog, so with an account you will also get a community around the courses.
 
 ## RU
 
