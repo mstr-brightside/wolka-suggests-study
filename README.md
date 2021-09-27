@@ -12,27 +12,15 @@
 
 1. [Coursera](https://www.coursera.org/ "Coursera") - legendary Coursera, many various courses on the IT and programming subject, but not only. Today Coursera covers areas like Business, Personal Development, Data Science, Math, Physics, Social Sciences, Arts and even Language Learning. Another huge point for Coursera is a possibility to get a degree or a certificate, which will be valuable at your job. There are free courses as well as non-free ($), plans for students and enterprise. Coursera also has a blog and publish articles on different subjects.
 
-1. [EdX](https://www.edx.org/) - vide variety of courses on many topics (including Architecture, Art & Culture
-Biology & Life Sciences, Business & Management, Chemistry, Communication, Computer Science, Data Analysis & Statistics, Design, Economics & Finance, Education & Teacher Training, Electronics, Energy & Earth Sciences, Engineering, Environmental Studies, Ethics, Food & Nutrition, Health & Safety, History, Humanities, Language, Law, Literature, Math, Medicine, Music, Philanthropy, Philosophy & Ethics, Physics, Science, Social Sciences and others). Platform offers courses from partners (including Amazon, IBM, Linux Foundation, various Universities). Some courses at no charge. EdX also offers plans for Business.
-
-1. [Curious](https://curious.com/) - Curious hosts online level courses in a wide range of disciplines. It has an interesting and effective idea of "stretching your brain" over different areas. Today you spend 15 minuts on Math, tomorrow you may learn something new in Sales. Curios has a CQ Wheel (Curious Quotient) which analizes your topics and suggests you the new topics to organically develop your areas of interest. Registration is fast, after it you fill out the form to determine your areas of interest and time you want to spend over learning every day. You have a free trial, then platform requires payment. Every day you will have a goal to accomplish according to the time and topics you've selected.
-
 1. [Pluralsight](https://www.pluralsight.com/) - offers a variety of video training courses for software developers. Plularsight covers IT sphere, offering courses on different topics, not only programming or administrating, but also smth like "how 5g works"; covers certain topic in business area as well as in architecture and construction. Trial period lasts for 10 days, then courses are at a charge. Codeschool was bought by Plularsight - in case if someone is still looking for Codeschool :)
 
 1. [Highbrow](https://gohighbrow.com/) - various courses of wide range of topics (Arts, Entrepreneurship, Finance, Health & Fitness, History, Languages, Marketing, Philosophy,  Psychology, Tech & Coding, Writing). Courses are not for free, but there is a trial. Also, Highbrow allows you to subscribe to only one course at a time, they explain it as "We want you to form a productive daily habit, but you shouldn’t tire your brain out".
-
-1. [SkillShare](https://www.skillshare.com/) - various courses of wide range of topics (Animation, Creative Writing, Film & Video, Fine Art, Graphic Design, Illustration, Music, Photography, UI/UX Design, Web Development, Business Analytics, Freelance & Entrepreneurship, Leadership & Management, Marketing, Lifestyle, Productivity). The courses are available through subscription, but there is a trial. Idea of the platform is to focus on the primary goal of learning by completing a project. You may also check workshops, they have online sessions and student projects. Platfor offers plans for teams.
 
 1. [Udacity](https://www.udacity.com/) - various IT-related topics from AI to product management. There is a possibility to choose a mentor or to become a mentor yourself. Udacity offeres individual and/or enterprise plans. Charge model is different from other platforms - here you buy membership for months and all courses are available for you, while other platforms mostly propose a price for a given course.
 
 1. [NewLine](https://www.newline.co/pricing) - this is actually not a platform with video courses, but to books, guides, community and masterclasses. Price is quite low. There is also a way to become a teacher and share the knowledge with others. NewLine offers a podcasts as well.
 
 1. [Platzi](https://courses.platzi.com/) - courses on various topics, mostly design and marketing. However, there are some about programming, data science. Courses are cheap. Platzi also has a Blog. Looks like the platform has no support (latest articles in Blog are 5 years old).
-
-1. [TED](https://www.ted.com/) - one of the most popular and recognizable brand. TED covers many different topic in various areas (Technology
-Science, Design, Business, Innovation, Social change, Health, Nature, The environment, Personal growth, Humanity, Society, Identity and many others). It is well known for it's famous speakers. TED proposes a monthly or yearly subscribtion and the price is surprisingly low.
-
-1. [TEDed](https://ed.ted.com/) - a more "general" TED, where you can find educational videos about anything round the world. How Aloe works? What is the origin of Olympics? How to cook BBQ? Everything is here.
 
 1. [Thinkful](https://www.thinkful.com/) - learn through online mentoring and 1-1 practice. Thinkful main focus is IT industry (Software, Data, UI/UX, etc) and it offers you to choose a desired program to learn. You will choose a team and start learning by a collaboration with mentors. The process of registration is a bit weird, though: you have to contact with them over the form on the site first, talk on what you want and expect and then you will get an account. Prices are unknown.
 
@@ -54,8 +42,6 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 1. [DataQuest](https://www.dataquest.io/) - dive into Data Science, Machine Learning, Data Analysis with the courses at this platform. Learning is interactive, available community, pricing is affordable.
 
 1. [DataMonkey](http://datamonkey.pro/) - perfect place to start for a complete beginners, who want to learn SQL and/or spreadheets to analise data. Courses are done in interactive and playful way, it's all very clear. You can start learning for free.
-
-1. [Khan Academy](https://www.khanacademy.org/) - The organization produces short videos lessons. Includes practice exercises and materials for educators. Areas lessons cover: Math, Biology, Arts and Humanities, Economics, Chemistry, IT/Programming/Computing. All resources are available for free to users of the website and application.
 
 1. [Guides.CO](https://guides.co/) - this is not actually a video-lessons platform, but a resource, where one can create a guide. It might be anything (just [explore](https://guides.co/explore) the examples). Idea is interesting, you might want to check it.
 
@@ -94,7 +80,7 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [Skillfactory](https://skillfactory.ru/) - онлайн-школа, готовящая специалистов в области IT. Есть краткосрочные курсы, есть долгосрок. В составлении программ принимали участие и крупные компании (NVIDIA, Amazon, Яндекс). Основные направления касаются работы с данными (Data Science, Big Data, анализ данных с применением Python), а так же разработка (в основном web)
 
-1. [BrainApps](https://brainapps.ru/) - платформа для развития когнитивных способностей: мышления, внимания, эмоциональной устойчивости интеллекта, памяти. Тренажер, спорт, фитнесс для мозга. Достаточно полезная вещь, которая пригодится каждому.
+1. [Нетология](https://netology.ru/) - онлайн-университет по подготовке и обучению специалистов в области интернет-маркетинга, управления проектами и продуктами, дизайна, Data Science и разработки.
 
 # Online practice for IT
 
@@ -182,11 +168,46 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [BBC Learn English](https://www.bbc.co.uk/learningenglish) - well-known news portal offers courses to learn english. A lot of materials related to business. With BBC Learn English you have a possibility to work on improving grammaar, dictionary, pronounciation.
 
+1. [The Mixxer](https://www.language-exchanges.org/) - The Mixxer is a free language exchange site using WhatsApp, Skype and Zoom by Dickinson College. The Mixxer is designed to connect language learners around the world so that everyone is both student and teacher. Signup for free to find a language partner. Help them practice your native language while they help you practice theirs.
+
+# Science or about everything
+
+## EN
+
+1. [EdX](https://www.edx.org/) - vide variety of courses on many topics (including Architecture, Art & Culture
+Biology & Life Sciences, Business & Management, Chemistry, Communication, Computer Science, Data Analysis & Statistics, Design, Economics & Finance, Education & Teacher Training, Electronics, Energy & Earth Sciences, Engineering, Environmental Studies, Ethics, Food & Nutrition, Health & Safety, History, Humanities, Language, Law, Literature, Math, Medicine, Music, Philanthropy, Philosophy & Ethics, Physics, Science, Social Sciences and others). Platform offers courses from partners (including Amazon, IBM, Linux Foundation, various Universities). Some courses at no charge. EdX also offers plans for Business.
+
+1. [Curious](https://curious.com/) - Curious hosts online level courses in a wide range of disciplines. It has an interesting and effective idea of "stretching your brain" over different areas. Today you spend 15 minuts on Math, tomorrow you may learn something new in Sales. Curios has a CQ Wheel (Curious Quotient) which analizes your topics and suggests you the new topics to organically develop your areas of interest. Registration is fast, after it you fill out the form to determine your areas of interest and time you want to spend over learning every day. You have a free trial, then platform requires payment. Every day you will have a goal to accomplish according to the time and topics you've selected.
+
+1. [Khan Academy](https://www.khanacademy.org/) - The organization produces short videos lessons. Includes practice exercises and materials for educators. Areas lessons cover: Math, Biology, Arts and Humanities, Economics, Chemistry, IT/Programming/Computing. All resources are available for free to users of the website and application.
+
+1. [TED](https://www.ted.com/) - one of the most popular and recognizable brand. TED covers many different topic in various areas (Technology
+Science, Design, Business, Innovation, Social change, Health, Nature, The environment, Personal growth, Humanity, Society, Identity and many others). It is well known for it's famous speakers. TED proposes a monthly or yearly subscribtion and the price is surprisingly low.
+
+1. [TEDed](https://ed.ted.com/) - a more "general" TED, where you can find educational videos about anything round the world. How Aloe works? What is the origin of Olympics? How to cook BBQ? Everything is here.
+
+1. [SkillShare](https://www.skillshare.com/) - various courses of wide range of topics (Animation, Creative Writing, Film & Video, Fine Art, Graphic Design, Illustration, Music, Photography, UI/UX Design, Web Development, Business Analytics, Freelance & Entrepreneurship, Leadership & Management, Marketing, Lifestyle, Productivity). The courses are available through subscription, but there is a trial. Idea of the platform is to focus on the primary goal of learning by completing a project. You may also check workshops, they have online sessions and student projects. Platfor offers plans for teams.
+
+## RU
+
+1. [Постнаука](https://postnauka.ru/) - авторские видео разные темы; полезно для общего развития и расширения кругозора. Видео о современных технологиях и достижениях фундаментальной науки. Материалы можно смотреть (видео), читать (журнал, книги), упражняться (тесты, игры).
+
+1. [BrainApps](https://brainapps.ru/) - платформа для развития когнитивных способностей: мышления, внимания, эмоциональной устойчивости интеллекта, памяти. Тренажер, спорт, фитнесс для мозга. Достаточно полезная вещь, которая пригодится каждому.
+
+# Music
+
+1. [Music Theory](https://www.musictheory.net/) - amazing project which offers dozens of courses to learn how to read musical notes and music theory, but also has practice to train ear. You may find great tools, useful for music composition; you may "play an instrument". Very useful platform for those, who is learning to play music from scratch.
+
+1. [Pianu](https://pianu.com/) -  Online platform to learn or improve your piano skills
+
+
 # Universities
 
 1. [Stanford](https://online.stanford.edu/free-courses) - free online courses for various topics.
 
 1. [Harvard](https://online-learning.harvard.edu/) - free online courses for various topics, including legendary CS50 (if your primary goal to learn Computer Science).
+
+1. [Open Yale courses](https://oyc.yale.edu/) - Yale university courses on a various [topics](https://oyc.yale.edu/courses).
 
 # Youtube channels
 
