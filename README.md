@@ -156,6 +156,8 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 # Learning foreign languages
 
+## EN
+
 1. [Preply](https://preply.com/) - find a real tutor and start learning. Personal, 1-1 lessons are the best way to learn/improve your language skills. Preply offers teachers not only for languages, but for many other subjects, like arts, maths, programming, music and even playing computer games
 
 1. [Duolingo](https://www.duolingo.com/) - probably the most popular and well known. Millions of users. Courses are super interactive, great UI/UX, animations and many other things
@@ -169,6 +171,20 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 1. [BBC Learn English](https://www.bbc.co.uk/learningenglish) - well-known news portal offers courses to learn english. A lot of materials related to business. With BBC Learn English you have a possibility to work on improving grammaar, dictionary, pronounciation.
 
 1. [The Mixxer](https://www.language-exchanges.org/) - The Mixxer is a free language exchange site using WhatsApp, Skype and Zoom by Dickinson College. The Mixxer is designed to connect language learners around the world so that everyone is both student and teacher. Signup for free to find a language partner. Help them practice your native language while they help you practice theirs.
+
+1. [Ororo.tv](https://ororo.tv/en) — great platform to learn languages. Has a great system of captions with hovering effect - if you don't know the word just hover over it in the captions, video will be automatically paused and you will see translation and explanation in your language.
+
+1. [Lang-8.com](https://lang-8.com/) — social network of foreign language learning lovers, find a native speaker, send your text for correction, correct foreigners' text by yourself.
+
+1. [Lingualeo.com](https://lingualeo.com/ru) — learn english effectively.
+
+## RU
+
+1. [Lingust.ru](https://lingust.ru/) — Еще один сайт с подборками материалов для изучения языка.
+
+1. [List-english.ru](https://list-english.ru/) — Подборка бесплатных материалов по английскому языку для начинающих.
+
+1. [Real-english.ru](http://real-english.ru/) — Английский без дураков — “Курс молодого бойца”.
 
 # Science or about everything
 
