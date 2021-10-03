@@ -55,6 +55,8 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 
 1. [SitePoint](https://www.sitepoint.com/) - Choose from hundreds of books, courses, and tech talks on web development. Learn HTML, CSS, and JavaScript to React, Docker, Python, PHP, Ruby, Design, SEO. They also have a forum and blog, so with an account you will also get a community around the courses.
 
+1. [brilliant](https://brilliant.org/) - Learn programming, Data Science by refreshing the basics (Math, Geometry, etc) or just learn Science! A lot of block-schemas and pseudocode examples to understand the nature of programming. You'll think hard, make mistakes, and learn from solutions. Let's get started!
+
 ## RU
 
 1. [Java Rush](https://javarush.ru/) - различные курсы для входа в IT. Как можно догадаться, есть много курсов, ориентированных на Java, но платформа не ограничивается лишь ими, предлагая, например, известный курс CS50 (CS == computer science). Подробнее о CS50 ниже. Доступ к обучению бесплатный.
@@ -81,6 +83,9 @@ SQL, JavaScript, WordPress, Bitcoin & Ethereum, Ruby, Project Management, Blockc
 1. [Skillfactory](https://skillfactory.ru/) - онлайн-школа, готовящая специалистов в области IT. Есть краткосрочные курсы, есть долгосрок. В составлении программ принимали участие и крупные компании (NVIDIA, Amazon, Яндекс). Основные направления касаются работы с данными (Data Science, Big Data, анализ данных с применением Python), а так же разработка (в основном web)
 
 1. [Нетология](https://netology.ru/) - онлайн-университет по подготовке и обучению специалистов в области интернет-маркетинга, управления проектами и продуктами, дизайна, Data Science и разработки.
+
+1. [LoftBlog](https://loftblog.ru/) - онлайн-курсы для программистов и людей интересующихся сферой IT. Представлен курсами для веб-разработчиков и не только; новичков и профи. Много статей, материалов, видео, курсов различного уровня подготовки. Онлайн-площадка обещает научить всему, что может понадобиться для создания качественного веб-сервиса и сделать обучение современным, интересным, эффективным. Команда ресурса – практикующие специалисты с реальным опытом. Обучаясь на сайте, каждый может постоянно быть в курсе всех новостей и изменений в мире технологий, где все находится постоянно в движении.
+
 
 # Online practice for IT
 
